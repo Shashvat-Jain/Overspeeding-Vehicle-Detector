@@ -9,7 +9,7 @@ Male-to-Male Jumper wires X 10 <br />
 Female-to-Male Jumper Wires X 6 <br />
 USB A To B Cable - Cable for Arduino <br />
 Connecting Wires <br />
-Buzzer <br />
+Piezo Buzzer <br />
 100 ohm Resistor - 1 Watt <br />
 1K Ohm Resistor - 1 Watt <br />
 4.7K Ohm Resistor - 1 Watt <br />
@@ -17,3 +17,5 @@ Buzzer <br />
 Soldering Pins <br />
 Soldering Gun and Wire <br />
 12V 1A DC Power Supply Adapter <br />
+
+<img src="https://github.com/Shashvat-Jain/Overspeeding-Vehicle-Detector/blob/main/Speed%20Detector%20with%20LCD%20Circuit.jpg">
